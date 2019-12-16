@@ -52,7 +52,7 @@ This block is Ruby code
 
 # Links
 
-[This is link text](www.this is the URL.com)
+[This is link text](www.thisistheURL.com)
 
 
 
@@ -90,24 +90,3 @@ This block is Ruby code
 - [x] This task has been completed
 
 # 
-
-
-
-
-
-
-How to use Markdown to format text
-
-
-
-
-
-
-How to leverage GitHub’s automatic Markdown rendering
-
-
-
-
-
-
-How to apply GitHub’s unique Markdown extensions
