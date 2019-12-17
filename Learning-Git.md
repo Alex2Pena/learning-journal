@@ -16,7 +16,10 @@
 - uses Git on local machine to upload local code to <GitHub>
 - different languages should be stored in different repositories
   
-## how to creata a repo on GitHub with terminal
+### how to creata a repo on GitHub with terminal
 
 - open terminal and verify you are at root level
-- 
+- create new directory **mkdir ________**
+- navigate to directory **cd _________**
+- create new directory within **mkdir_______**
+- navigate to directory **cd
