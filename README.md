@@ -4,8 +4,8 @@ This is where I write about my learning
 
 This is going to be fun!
 
-- [Markdown](/Learn-Markdown.md)
+1. [Markdown](/Learn-Markdown.md)
 
-- [Terminal](/Learn-Terminal.md)
+2. [Terminal](/Learn-Terminal.md)
 
-- [Git & GitHub](/Learn-Git.md)
+3. [Git & GitHub](/Learn-Git.md)
