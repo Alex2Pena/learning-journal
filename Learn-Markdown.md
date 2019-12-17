@@ -91,9 +91,9 @@ This block is Ruby code
 
 # Tables
 
-    Header    |   Header
-------------- | -------------
-   Content    |  Content
+Header|Header
+------|------
+Content|Content
    
    
 # SHA References
