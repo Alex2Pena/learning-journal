@@ -21,7 +21,7 @@
 - create new directory **mkdir ________**
 - navigate to directory **cd _________**
 - create new directory within **mkdir_______**
-- navigate to directory **cd
+- navigate to directory **cd ________**
 - goto repo on github and hit clone then copy url
 - in terminal type **git clone URL** hit enter
 
