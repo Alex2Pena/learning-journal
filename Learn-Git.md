@@ -31,14 +31,14 @@
 - in terminal type **git status** to verify if you have the current version
 
 ## Using repo localy in VS code with terminal
-- type **code .** to launch VS code with current repo
+- in terminal type **code .** to launch VS code with current repo
 - make changes in vs code if needed
-- type **git add** or **git commit-a** to update file with changes
-- type **git reset** to unstage or undo changes
-- type **git commit -m "reason for change"** to add message to commit change
-- type **git push origin master** to upload/publish to github
-- type **git fetch** to compare origin/master file if changes have been made on github
-- type **git pull origin/master** to download changes made on GitHub to local file.
+- in terminal type **git add** or **git commit-a** to update file with changes
+- in terminal type **git reset** to unstage or undo changes
+- in terminal type **git commit -m "reason for change"** to add message to commit change
+- in terminal type **git push origin master** to upload/publish to github
+- in terminal type **git fetch** to compare origin/master file if changes have been made on github
+- in terminal type **git pull origin/master** to download changes made on GitHub to local file.
 
 
 
