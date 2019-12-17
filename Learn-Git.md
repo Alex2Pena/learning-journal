@@ -24,4 +24,4 @@
 - navigate to directory **cd ________**
 - goto repo on github and hit clone then copy url
 - in terminal type **git clone *URL** hit enter
-
+- in terminal type **git remote -v** to verify
