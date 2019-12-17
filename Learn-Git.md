@@ -16,6 +16,9 @@
 - uses Git on local machine to upload local code to <GitHub>
 - different languages should be stored in different repositories
   
+# ACP Git Flow
+- add, commit, push
+
 ## Clone a repo on GitHub with terminal to local machine
 - open terminal and verify you are at root level
 - create new directory **mkdir ________**
@@ -27,7 +30,7 @@
 - in terminal type **git remote -v** to verify
 - in terminal type **git status** to verify if you have the current version
 
-## Open repo in VS code with terminal
+## Using repo localy in VS code with terminal
 - type **code .** to launch VS code with current repo
 - make changes in vs code if needed
 - type **git add** or **git commit-a** to update file with changes
@@ -36,5 +39,6 @@
 - type **git push origin master** to upload/publish to github
 - type **git fetch** to compare origin/master file if changes have been made on github
 - type **git pull origin/master** to download changes made on GitHub to local file.
-- 
+
+
 
