@@ -23,7 +23,7 @@
 - create new directory within **mkdir_______**
 - navigate to directory **cd ________**
 - goto repo on github and hit clone then copy url
-- in terminal type **git clone *URL** hit enter
+- in terminal type **git clone *URL*** hit enter
 - in terminal type **git remote -v** to verify
 - in terminal type **git status** to verify if you have the current version
 
