@@ -86,7 +86,7 @@ This block is Ruby code
 
 # Task Lists
 
-- [ ] This task ghas not been completed
+- [ ] This task has not been completed
 - [x] This task has been completed
 
 # Tables
