@@ -8,4 +8,4 @@ This is going to be fun!
 
 - [Terminal](/Learn-Terminal.md)
 
-- [Git & GitHub](/Learn-GitHub.md)
+- [Git & GitHub](/Learn-Git.md)
