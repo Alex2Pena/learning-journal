@@ -11,15 +11,17 @@
 - each commit can have a **HEAD** meaning "You are here"
 - each commit can have a messages "caption" with reason for changes made
 
-### GitHub - remote cloud based - like a social media for code
-
+### GitHub 
+- remote cloud based - like a social media for code
 - uses Git on local machine to upload local code to <GitHub>
 - different languages should be stored in different repositories
   
-### how to creata a repo on GitHub with terminal
-
+### how to clone a repo on GitHub with terminal to local machine
 - open terminal and verify you are at root level
 - create new directory **mkdir ________**
 - navigate to directory **cd _________**
 - create new directory within **mkdir_______**
 - navigate to directory **cd
+- goto repo on github and hit clone then copy url
+- in terminal type **git clone URL** hit enter
+
