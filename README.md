@@ -9,3 +9,5 @@ This is going to be fun!
 2. [Terminal](/Learn-Terminal.md)
 
 3. [Git & GitHub](/Learn-Git.md)
+
+4. [HTML](/Learn-HTML.md)
